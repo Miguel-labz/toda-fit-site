@@ -5,7 +5,7 @@ body {
     padding: 0;
     background-image: url('Sua\ vida\ precisa\ de\ Toda\ Fit!.jpg'); /* Adicione o caminho da sua imagem de fundo */
     background-size: cover; /* Cobrir toda a área */
-    background-position: center 170%; /* Centralizar horizontalmente e deslocar 70% para baixo */
+    background-position: center 500%; /* Centralizar horizontalmente e deslocar 70% para baixo */
     background-position: center; /* Centralizar a imagem */
     background-repeat: no-repeat; /* Evitar repetição */
     background-attachment: fixed; /* Fixar a imagem de fundo */
@@ -13,11 +13,11 @@ body {
 }
 
 header {
-    background-color: #2b1821;
-    color: rgb(255, 255, 255);
+    
     font-size: 20px; /* Tamanho do texto geral aumentado */
     padding: 15px;
     text-align: center;
+    color: aliceblue;
     
 }
 
